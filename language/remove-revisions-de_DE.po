@@ -1,0 +1,71 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Remove Revisions v0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2012-07-17 07:55:13+0000\n"
+"Last-Translator: admin <t.herzog@inpsyde.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-Language: German\n"
+"X-Poedit-Country: GERMANY\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: features/class-Remove_Revisions_Options_Page.php:73
+#@ remove-revisions
+msgid "Remove Revions"
+msgstr "Revisionen löschen"
+
+#: features/class-Remove_Revisions_Options_Page.php:75
+#@ remove-revisions
+msgid "Remove Revions after"
+msgstr "Lösche Revisionen nach"
+
+#: features/class-Remove_Revisions_Options_Page.php:77
+#@ remove-revisions
+msgid "This setting removes the revisions which are older than the given days. Leave blank or 0 to disable the old revision check."
+msgstr "Diese Einstellung löscht alle Revisionen, die älter als die angegebenen Tage sind. Leer lassen oder eine 0 eintragen, um die Revisionsprüfung zu deaktivieren,"
+
+#: features/class-Remove_Revisions_Options_Page.php:84
+#@ remove-revisions
+msgid "Days"
+msgstr "Tagen"
+
+#. translators: plugin header field 'Name'
+#: remove-revisions.php:0
+#@ remove-revisions
+msgid "Remove Revisions"
+msgstr ""
+
+#. translators: plugin header field 'Description'
+#: remove-revisions.php:0
+#@ remove-revisions
+msgid "This plugin is able to automatically remove revisions older than n days."
+msgstr ""
+
+#. translators: plugin header field 'Author'
+#: remove-revisions.php:0
+#@ remove-revisions
+msgid "Inpsyde GmbH"
+msgstr ""
+
+#. translators: plugin header field 'AuthorURI'
+#: remove-revisions.php:0
+#@ remove-revisions
+msgid "http://inpsyde.com"
+msgstr ""
+
+#. translators: plugin header field 'Version'
+#: remove-revisions.php:0
+#@ remove-revisions
+msgid "0.1"
+msgstr ""
+
